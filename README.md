@@ -1,4 +1,4 @@
-项目采用 SSM（Spring + Spring MVC + MyBatis）框架 + easyUI 来开发一个比较简易的人事管理系统，让我们能够通过实际项目掌握 SSM 项目的开发。
+项目采用 SSM（Spring + Spring MVC + MyBatis）框架 + jQuery 来开发一个比较简易的人事管理系统，让我们能够通过实际项目掌握 SSM 项目的开发。
 在开始本项目前，务必已经掌握 Spring, Spring MVC, MyBatis, jQuery, javaScript 以及 html 等方面的基础知识。
 本人事管理系统主要包括如下几个模块：
 
