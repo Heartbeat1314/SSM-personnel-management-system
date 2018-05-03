@@ -7,6 +7,8 @@
 
 4.本项目随便使用，没有任何限制
 
+5.可以作为项目经历，找工作和面试必备
+
 # 项目简介：
 项目采用 SSM（Spring + Spring MVC + MyBatis）框架 + jQuery 来开发一个比较简易的人事管理系统，让我们能够通过实际项目掌握 SSM 项目的开发。
 在开始本项目前，务必已经掌握 Spring, Spring MVC, MyBatis, jQuery, javaScript 以及 html 等方面的基础知识。
