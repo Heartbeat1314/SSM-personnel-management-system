@@ -60,4 +60,11 @@ Domain Object 层：由一系列的 POJO（Plain Old Java Object，即普通的�
 
 数据库：MySQL 数据库，存储持久化数据。
 
+# 开发环境选择
+
+IntelliJ IDEA 2017.3+
+
+mysql 5.6+
+
+Tomcat 8.0+
 
