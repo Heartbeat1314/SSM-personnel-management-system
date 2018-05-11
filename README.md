@@ -62,7 +62,7 @@ Domain Object 层：由一系列的 POJO（Plain Old Java Object，即普通的�
 
 # 开发环境选择
 
-IntelliJ IDEA 2017.3+
+IntelliJ IDEA 2017.3+或者eclipse
 
 mysql 5.6+
 
