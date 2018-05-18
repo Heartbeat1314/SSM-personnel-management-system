@@ -58,7 +58,7 @@ DAO 层：MyBatis 框架，由一系列的 DAO 组件组成，这些 DAO 实现�
 
 Domain Object 层：由一系列的 POJO（Plain Old Java Object，即普通的、传统的Java对象）组成，是一些简单的 Java Bean 类。
 
-数据库：MySQL 数据库，存储持久化数据。
+数据库：MySQL 数据库，进行数据持久化操作。
 
 # 开发环境选择
 
