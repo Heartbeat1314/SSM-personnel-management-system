@@ -42,7 +42,7 @@ Java EE 架构：SSM（Spring + Spring MVC + MyBatis）框架
 
 表现层技术：JSP
 
-前端框架：JQuery
+前端框架：Bootstrap
 
 数据库：MySQL
 
